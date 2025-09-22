@@ -1,0 +1,3 @@
+This project is a Sales Performance Analysis Dashboard designed to track and evaluate the performance of sales executives across different regions. It integrates raw sales data (daily sales, total sales, and targets) into a consolidated dashboard view. The dashboard highlights key performance indicators such as Total Sales, Target Achievement Percentage, and Away from Target Percentage, enabling quick identification of top performers and underperforming sales staff.
+
+It serves as a decision-support tool for management to monitor sales progress, assess target achievements, and make data-driven strategies for improving sales effectiveness.
